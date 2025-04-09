@@ -24,12 +24,8 @@ This is my submission for the TicketSwap front-end challenge. Focused on clean c
 3. Run the development server
 4. Open in your browser:
 
-``shell script
-
+```shell script
 > npm i
 > npm run dev
 > http://localhost:3000
-
-```
-
 ```
