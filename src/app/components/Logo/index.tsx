@@ -3,10 +3,10 @@ export function Logo() {
     <div className="w-32 fill-primary">
       <svg
         viewBox="0 0 244 35"
-        fill-rule="evenodd"
-        clip-rule="evenodd"
-        stroke-linejoin="round"
-        stroke-miterlimit="1.414"
+        fillRule="evenodd"
+        clipRule="evenodd"
+        strokeLinejoin="round"
+        strokeMiterlimit="1.414"
         xmlns="http://www.w3.org/2000/svg"
         role="presentation"
         focusable="false"
@@ -24,5 +24,5 @@ export function Logo() {
         </g>
       </svg>
     </div>
-  )
+  );
 }
