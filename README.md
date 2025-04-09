@@ -9,6 +9,7 @@ This is my submission for the TicketSwap front-end challenge. Focused on clean c
 - Detailed event pages with venue information
 - Detailed location page
 - Responsive design for all devices
+- Test for SearchBar component
 
 ## Getting Started
 
